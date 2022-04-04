@@ -1,0 +1,416 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*about us*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fredoka:wght@500&family=Lato:ital,wght@1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Roboto:wght@100&display=swap');
+
+html,
+body {
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    box-sizing: border-box;
+    margin: 0;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+.chillasarttitle1{
+    display: flex;
+    justify-content:center;
+}
+
+a {
+    color: rgb(14, 69, 170);
+    font-weight: 500;
+}
+
+a:hover {
+    color: blue;
+}
+
+.bodyindexbg {
+    
+    background-color: #1e1597;
+}
+
+nav {
+    padding: 3rem;
+}
+
+.menusupindex li {
+
+    display: inline-block;
+
+
+}
+
+.navbar {
+    background-color: rgb(5, 9, 5);
+    color: #154797;
+
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    color: rgb(35, 95, 180);
+    font-weight: 900;
+}
+
+.navbar-toggler {
+    background-color: aliceblue;
+    border: none;
+    padding: 6px;
+    outline: none;
+}
+
+.fondonosotros {
+    background-color: black;
+}
+
+.titulonosotros {
+
+    width: auto;
+    text-align: center;
+    padding: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(65, 53, 236);
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+.titulonosotros img {
+    margin-top: 30px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 5px;
+    width: 10%;
+
+}
+
+.backgroundab {
+
+    background-color: black;
+    overflow: scroll;
+
+
+}
+
+.aboutca {
+    color: #ddd;
+    font-size: 20px;
+    margin-bottom: 100px;
+    padding-left: 30px;
+    font-style: normal;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.boxbio {
+
+    margin-top: 100px;
+    background-color: black;
+
+}
+
+.textobio {
+
+    color: #ddd;
+
+    text-align: center;
+    font-size: 25px;
+    margin: 10px;
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+
+.vgbca {
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: #ddd;
+    border: solid #110b66;
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+
+.galeriajuegos1 {
+    display: inline-flex;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(214, 35, 35);
+
+}
+
+.galeriajuegos1 img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 90%;
+    border-radius: 50%;
+}
+
+.galeriajuegos2 {
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(214, 35, 35);
+    margin-bottom: 30px;
+}
+
+.galeriajuegos2 img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 80%;
+    border-radius: 50%;
+}
+
+/*---------------------- merchandising------------------------------- */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(21, 21, 75);
+
+
+}
+
+.merchandisingstore {
+
+    padding-top: 20px;
+    color: blue;
+    text-align: center;
+    font-style: normal;
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+
+
+
+}
+
+.Tshirts {
+    padding-left: 90px;
+    font-style: normal;
+    font-family: 'Anton', sans-serif;
+    font-size: 500%;
+    font-display: solid;
+    color: rgb(55, 126, 189);
+
+
+}
+
+.titulochoosedg {
+    color: rgb(55, 126, 189);
+    padding-left: 90px;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+.TshirtChoiceColor {
+    margin-left: 80px;
+    height: 25%;
+    width: 25%;
+    object-fit: contain;
+    border: solid white;
+    border-radius: 25px;
+}
+
+.storemerchcolor {
+    background-color: black;
+}
+
+select,
+option {
+    width: 250px;
+}
+
+option {
+    margin-left: 200px;
+    font-size: 150%;
+    font-display: solid;
+    color: rgb(27, 4, 90);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/*----------------- INDEX ------------- */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fredoka:wght@500&family=Lato:ital,wght@1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Roboto:wght@100&display=swap');
+
+html,
+body {
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    box-sizing: border-box;
+    margin: 0;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+
+a {
+    color: rgb(14, 69, 170);
+    font-weight: 500;
+}
+
+a:hover {
+    color: blue;
+}
+
+.bodyindexbg {
+    background-image: url(img/d38f726a0e68b967362e4b5ac18aa0a3.jpg);
+
+    background-color: #1e1597;
+}
+
+nav {
+    padding: 3rem;
+}
+
+.menusupindex li {
+
+    display: inline-block;
+
+
+}
+
+.navbar {
+    background-color: rgb(5, 9, 5);
+    color: #154797;
+
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    color: rgb(35, 95, 180);
+    font-weight: 900;
+}
+
+.navbar-toggler {
+    background-color: aliceblue;
+    border: none;
+    padding: 6px;
+    outline: none;
+}
+
+.chillasartlogo0 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.fa-solid {
+    background-color: darkgreen;
+    text-decoration: none;
+
+}
+
+.chillasartlogo0 img {
+    border-radius: 50%;
+    border-color: green;
+}
+
+/*----------------------------------GALLERY---------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fredoka:wght@500&family=Lato:ital,wght@1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Roboto:wght@100&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.bodygallery {
+    background-color: black;
+    overflow: scroll;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.newgame {
+    display: flex;
+    justify-content: center;
+    color: rgb(30, 0, 255);
+    font-weight: 100px;
+    font-size: 30px;
+    padding-bottom: 20px;
+    text-shadow: black;
+}
+
+#galeria .col-lg-4 {
+    margin: 0%;
+    padding: 25px;
+
+}
+
+#galeria img:hover {
+    border: 5px solid #154797;
+
+
+}
+
+.text-center {
+    justify-content: center;
+
+}
+
+#galeria {
+    text-align: center;
+}
+
+.gallerysubtitle {
+    color: #154797;
+}
+
+.gallerylore {
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 25px;
+    color: #154797;
+}
+
+.container {
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: auto;
+}
+
+.closingshiftl {
+    font-size: x-large;
+    color: rgb(26, 64, 168);
+    font-family: 'Libre Baskerville', serif;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
+.contactl {
+    color: rgb(31, 15, 112);
+    font-family: 'Libre Baskerville', serif;
+    font-size: x-large;
+    text-align: left;
+}
